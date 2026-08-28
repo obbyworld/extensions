@@ -26,7 +26,7 @@ The server is [ObbyIRCd]. The reference client is [Obby].
 
 ## License
 
-Copyright the ObbyIRCd Team.
+Copyright the Obby Team.
 
 Unlimited redistribution and modification of these documents is allowed provided
 that the copyright notice of each document and this permission notice remain

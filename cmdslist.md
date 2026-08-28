@@ -4,7 +4,7 @@ layout: spec
 work-in-progress: true
 copyrights:
   -
-    name: "ObbyIRCd Team"
+    name: "Obby Team"
     period: "2026"
 ---
 
