@@ -12,9 +12,11 @@ on the wire, and a rename breaks every client that reads it. New extensions use
 Name | Namespace | Kind
 -----|-----------|-----
 [e2ee](e2ee.md) | `obby.world/e2ee` | Client-only message tag
+[filehost](filehost.md) | `obby.world/FILEHOST` | ISUPPORT token
 [whois-batch](whois-batch.md) | `obby.world/whois` | Batch type
 [channel-bots](channel-bots.md) | `obby.world/channel-bots` | Capability, tag
 [cmdslist](cmdslist.md) | `obsidianirc/cmdslist` | Capability, command, batch type
+[link-preview](link-preview.md) | `obsidianirc/link-preview-*` | Message tags
 [voice](voice.md) | `obsidianirc/voice` | Capability, client-only tag
 [named-modes](named-modes.md) | `obsidianirc` | Named mode names
 
