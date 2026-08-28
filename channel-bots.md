@@ -77,4 +77,4 @@ A bot reply that names the message that triggered it:
 
     @+obby.world/invoked-by=Ac8h2Kd9 :weatherbot PRIVMSG #general :22C and clear.
 
-[PushBot specification]: https://github.com/obbyworld/ObbyIRCd/blob/main/doc/specs/pushbot-spec.md
+[PushBot specification]: https://github.com/obbyworld/ObbyIRCd/blob/unreal60_dev/doc/specs/pushbot-spec.md

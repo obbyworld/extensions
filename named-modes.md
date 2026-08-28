@@ -71,4 +71,4 @@ Name | Description
 -----|------------
 `obsidianirc/timedban` | A ban that expires after a set time
 
-[IRCv3 named modes]: https://github.com/ircv3/ircv3-specifications/pull/504
+[IRCv3 named modes]: https://github.com/ircv3/ircv3-specifications/pull/484

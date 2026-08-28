@@ -65,4 +65,4 @@ An upload to the uploader of the network:
     Content-Length: 4242
     Authorization: Bearer c2V1bmdoeWU6bm8=
 
-[filehost]: https://github.com/ircv3/ircv3-specifications/pull/532
+[filehost]: https://github.com/ircv3/ircv3-specifications/pull/562
