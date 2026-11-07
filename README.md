@@ -15,6 +15,7 @@ Name | Namespace | Kind
 [filehost](filehost.md) | `obby.world/FILEHOST` | ISUPPORT token
 [whois-batch](whois-batch.md) | `obby.world/whois` | Batch type
 [channel-bots](channel-bots.md) | `obby.world/channel-bots` | Capability, tag
+[bot-tools-and-workflow](bot-tools-and-workflow.md) | `draft/bot-cmds`, `draft/bot-tools` | Capabilities, client-only tags, batch types
 [cmdslist](cmdslist.md) | `obsidianirc/cmdslist` | Capability, command, batch type
 [link-preview](link-preview.md) | `obsidianirc/link-preview-*` | Message tags
 [voice](voice.md) | `obsidianirc/voice` | Capability, client-only tag

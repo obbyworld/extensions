@@ -37,8 +37,9 @@ bots. It sends the list of channel bots when the client joins a channel. It
 sends an update when a bot is added, removed, or changes its commands.
 
 Each list is a batch of type `obby.world/bot-list`. Each member of the batch is
-a `TAGMSG` that carries the `draft/bot-cmds` tag. One format covers all three
-cases, so a client writes one parser.
+a `TAGMSG` that carries the `draft/bot-cmds` tag, which [Bot Tools and
+Workflow] defines. One format covers all three cases, so a client writes one
+parser.
 
 ### Invocation
 
@@ -78,3 +79,4 @@ A bot reply that names the message that triggered it:
     @+obby.world/invoked-by=Ac8h2Kd9 :weatherbot PRIVMSG #general :22C and clear.
 
 [PushBot specification]: https://github.com/obbyworld/ObbyIRCd/blob/unreal60_dev/doc/specs/pushbot-spec.md
+[Bot Tools and Workflow]: bot-tools-and-workflow.md
